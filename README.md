@@ -8,7 +8,7 @@ Code available into my private repo file
 
 Below screen available 
 
-# Phone Call Intercepting Sample created by Vikash upto Android API 34(14) suported
+# Phone Call Intercepting Sample upto Android API 34(14) suported
 Android 14 (API level 34)
 
 ###### This application that demonstrates intercepting when call will come and go this screen will be apper ######
